@@ -7,3 +7,4 @@ In the domain of natural language processing, aspect-level sentiment analysis re
 
 We have employed three techniques to extract aspect terms- prompting techniques like zero-shot, one-shot etc, RAG and fine-tuning of LLMs as depicted by the system architecture in Fig. 4. to compare these techniques to see which leads to a more accurate result for extracting aspect terms. The final step involves assessing the performance of the models, using the metric Macro F1 Score, which is a balanced measure of precision and recall across all classes.
 
+<img width="484" alt="Screenshot 2024-07-15 at 12 49 24 AM" src="https://github.com/user-attachments/assets/da1a4ccf-a2e5-416b-846b-afdd8eefe681">
