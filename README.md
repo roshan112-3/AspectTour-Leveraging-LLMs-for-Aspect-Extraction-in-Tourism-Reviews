@@ -7,7 +7,7 @@ In the domain of natural language processing, aspect-level sentiment analysis re
 
 Traditional sentiment analysis involves assessing and categorizing a text such as a review to be  positive, negative, or neutral based on the feelings or viewpoints expressed. A more fine-grained form of sentiment analysis known as aspect-based sentiment analysis (ABSA) focuses on finding and analyzing the sentiment or opinion expressed towards aspects within the text. The aspect term extraction (ATE) task, which looks for aspect keywords that are articulated in sentences, is one of the primary tasks  in ABSA. Given the considerable global influence that tourism has on the economy and culture, this study focuses on ATE on tourism reviews from a popular website, TripAdvisor. Tourism organizations can gain valuable insights into the aspects of their offerings that tourists find most or least appealing by carefully examining customer feedback. In ABSA, aspect term extraction involves sequence labeling which is the task of assigning a categorical label to each token of a sentence.
 
-Example review: The water rides were fun, but the land rides were boring! 
+Example review: The water rides were fun, but the land rides were boring! <br> 
 Aspect Terms: [‘water rides’, ‘land rides’]
 
 In the above review, two opinions or sentiments are being expressed on two different aspects. These terms represent specific features or components of the amusement park being reviewed. Extracting these aspect terms is important because it allows us to focus on the sentiment expressed towards each specific feature, rather than the text as a whole. 
